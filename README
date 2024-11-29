@@ -1,3 +1,12 @@
 nom : BAUDRY 
 prénom : Léo
 URL Site Netlify : https://curious-cranachan-829e85.netlify.app/
+
+/// Scores lighthouse :
+
+11:18:52 AM: Lighthouse scores for /
+11:18:52 AM: - Performance: 98
+11:18:52 AM: - Accessibility: 100
+11:18:52 AM: - Best Practices: 100
+11:18:52 AM: - SEO: 80
+11:18:52 AM: - PWA: 30
